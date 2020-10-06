@@ -1,0 +1,50 @@
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\Integration_form.exe
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\Integration_form.pdb
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\Polynomials.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\ZedGraph.xml
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\obj\x86\Debug\Numerical_analysis.csprojResolveAssemblyReference.cache
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\obj\x86\Debug\Numerical_analysis.Form1.resources
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\obj\x86\Debug\Numerical_analysis.main_form.resources
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\obj\x86\Debug\Integration_form.Properties.Resources.resources
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\obj\x86\Debug\Numerical_analysis.csproj.GenerateResource.Cache
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\obj\x86\Debug\Integration_form.exe
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Integration_form\Integration_form\obj\x86\Debug\Integration_form.pdb
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Numerical analysis project\Integration_form\obj\x86\Debug\Integration_form.exe
+C:\Users\Mo7ammed\Downloads\Integration_form\Integration_form\Numerical analysis project\Integration_form\obj\x86\Debug\Integration_form.pdb
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Integration_form.exe
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Integration_form.pdb
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\Integration_form.exe
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\Integration_form.pdb
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\ZedGraph.xml
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Numerical_analysis.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Integration_form.about_form.resources
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Numerical_analysis.Form1.resources
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Numerical_analysis.main_form.resources
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Integration_form.Properties.Resources.resources
+C:\Users\TOSHIBA C850\Downloads\Numerical analysis project\Numerical analysis project\Integration_form\obj\x86\Debug\Numerical_analysis.csproj.GenerateResource.Cache

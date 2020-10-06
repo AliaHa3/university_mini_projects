@@ -1,0 +1,362 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Program.cs" caret="354" fromTop="14" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/d:Properties/f:Resources.resx" caret="5809" fromTop="13" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:integral.cs" caret="528" fromTop="16" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.Designer.cs" caret="33521" fromTop="23" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:interpolation.cs" caret="178" fromTop="7" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1812" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:interpolation.cs" caret="671" fromTop="10" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:interpolation.cs" caret="571" fromTop="6" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1773" fromTop="18" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1773" fromTop="9" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1773" fromTop="4" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1773" fromTop="10" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1773" fromTop="20" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1867" fromTop="11" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1378" fromTop="50" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="5991" fromTop="9" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.Designer.cs" caret="31075" fromTop="19" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:integral.cs" caret="488" fromTop="15" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:interpolation.cs" caret="2700" fromTop="9" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Program.cs" caret="184" fromTop="8" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Program.cs" caret="354" fromTop="14" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="9851" fromTop="24" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="10032" fromTop="29" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="7227" fromTop="18" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/d:Properties/f:Resources.resx" caret="5809" fromTop="20" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/d:Properties/f:Resources.resx" caret="5809" fromTop="13" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1327" fromTop="14" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="7470" fromTop="5" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="7782" fromTop="9" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:interpolation.cs" caret="171" fromTop="7" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.Designer.cs" caret="33546" fromTop="23" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="8056" fromTop="34" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="8372" fromTop="26" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="9533" fromTop="26" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="1812" fromTop="23" />
+      <File id="8F2A609E-9DC5-40BE-99FC-FE9CDF1892BE/f:Form1.cs" caret="10176" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="7" />
+      <Item value="MathParserTK" priority="3" />
+      <Item value="Regtangles_Methodcs`0" priority="0" />
+      <Item value="public" priority="9" />
+      <Item value="Regtangles_Method`0" priority="0" />
+      <Item value="string" priority="12" />
+      <Item value="int" priority="22" />
+      <Item value="private" priority="7" />
+      <Item value="double" priority="28" />
+      <Item value="_function" priority="0" />
+      <Item value="fun" priority="1" />
+      <Item value="_leftEndPoint" priority="0" />
+      <Item value="a" priority="18" />
+      <Item value="_rightEndPoint" priority="0" />
+      <Item value="b" priority="12" />
+      <Item value="abstract" priority="0" />
+      <Item value="class" priority="2" />
+      <Item value="static" priority="3" />
+      <Item value="GopherStyleUriParser`0" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="Console`0" priority="4" />
+      <Item value="moh`0" priority="1" />
+      <Item value="textBox1" priority="0" />
+      <Item value="return" priority="8" />
+      <Item value="res" priority="8" />
+      <Item value="h" priority="16" />
+      <Item value="Function" priority="10" />
+      <Item value="InvokeGotFocus`0" priority="0" />
+      <Item value="RegtanglesMethod`0" priority="0" />
+      <Item value="textBox5" priority="1" />
+      <Item value="n" priority="9" />
+      <Item value="for" priority="2" />
+      <Item value="System" priority="1" />
+      <Item value="if" priority="13" />
+      <Item value="i" priority="9" />
+      <Item value="else" priority="9" />
+      <Item value="Convert`0" priority="9" />
+      <Item value="function" priority="5" />
+      <Item value="start" priority="1" />
+      <Item value="end" priority="1" />
+      <Item value="Accuracy" priority="4" />
+      <Item value="MessageBox`0" priority="13" />
+      <Item value="OxyPlot" priority="0" />
+      <Item value="PlotType`0" priority="0" />
+      <Item value="ZedGraph" priority="2" />
+      <Item value="Draw`0" priority="0" />
+      <Item value="new" priority="8" />
+      <Item value="Draw" priority="0" />
+      <Item value="drawing" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="Program`0" priority="11" />
+      <Item value="program" priority="2" />
+      <Item value="Base64FormattingOptions`0" priority="6" />
+      <Item value="protected" priority="7" />
+      <Item value="Progress" priority="0" />
+      <Item value="Function`0" priority="2" />
+      <Item value="f" priority="0" />
+      <Item value="NumSubdivisions" priority="10" />
+      <Item value="XAxis" priority="14" />
+      <Item value="x" priority="4" />
+      <Item value="YAxis" priority="20" />
+      <Item value="y" priority="4" />
+      <Item value="Start" priority="4" />
+      <Item value="End" priority="3" />
+      <Item value="accuracy" priority="1" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="mohammed" priority="0" />
+      <Item value="fx" priority="0" />
+      <Item value="Drawing" priority="0" />
+      <Item value="tabControl1" priority="2" />
+      <Item value="Size" priority="0" />
+      <Item value="this" priority="13" />
+      <Item value="tabPage2" priority="6" />
+      <Item value="get" priority="0" />
+      <Item value="I" priority="28" />
+      <Item value="list" priority="3" />
+      <Item value="switch" priority="5" />
+      <Item value="Method_tpye" priority="5" />
+      <Item value="case" priority="4" />
+      <Item value="bool" priority="3" />
+      <Item value="ToolBar`0" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="false" priority="6" />
+      <Item value="true" priority="3" />
+      <Item value="label3" priority="1" />
+      <Item value="break" priority="4" />
+      <Item value="Result" priority="2" />
+      <Item value="TabControl`0" priority="4" />
+      <Item value="TabIndex" priority="0" />
+      <Item value="TabPage`0" priority="2" />
+      <Item value="TabControl" priority="0" />
+      <Item value="X2Axis`0" priority="2" />
+      <Item value="tabPage1" priority="3" />
+      <Item value="tabPage2_Resize`0" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="tabPage1_Resize`0" priority="0" />
+      <Item value="sender" priority="0" />
+      <Item value="myPane" priority="5" />
+      <Item value="myCurve" priority="1" />
+      <Item value="LineItem`0" priority="1" />
+      <Item value="PaneBase`0" priority="0" />
+      <Item value="color" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="Circle" priority="0" />
+      <Item value="radioButton2" priority="0" />
+      <Item value="FlowLayoutSettings`0" priority="2" />
+      <Item value="radioButton1" priority="0" />
+      <Item value="Parse`0" priority="0" />
+      <Item value="MathParser`0" priority="0" />
+      <Item value="parser" priority="1" />
+      <Item value="hORn" priority="2" />
+      <Item value="temp1" priority="4" />
+      <Item value="temp2" priority="8" />
+      <Item value="var" priority="0" />
+      <Item value="temp" priority="10" />
+      <Item value="_xAxis" priority="8" />
+      <Item value="_yAxis" priority="3" />
+      <Item value="comboBox1" priority="1" />
+      <Item value="calculate" priority="1" />
+      <Item value="label9" priority="0" />
+      <Item value="interpaltion_InformationReady`0" priority="0" />
+      <Item value="MessageBoxIcon`0" priority="0" />
+      <Item value="Message`0" priority="0" />
+      <Item value="xvalue" priority="0" />
+      <Item value="CacheVirtualItemsEventArgs`0" priority="0" />
+      <Item value="Polynomials" priority="2" />
+      <Item value="LagrangePolynomial" priority="0" />
+      <Item value="Xaxis" priority="2" />
+      <Item value="Interpaltion" priority="11" />
+      <Item value="Clone`0" priority="0" />
+      <Item value="Min`2" priority="2" />
+      <Item value="symbolType" priority="0" />
+      <Item value="Max`2" priority="0" />
+      <Item value="zgc" priority="0" />
+      <Item value="Graphics`0" priority="0" />
+      <Item value="e" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Integration_form.moh">
+      <Item value="google`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Integration_form.RegtanglesMethod">
+      <Item value="Evaluate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDouble`0" priority="4" />
+      <Item value="ToInt32`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="GetType`0" priority="1" />
+      <Item value="Replace`0" priority="5" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="14" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Integration_form.Draw">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Integration_form.Program">
+      <Item value="Mohammed`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Integration_form.Program+Mohammed">
+      <Item value="Mohammed`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Integration_form.Program">
+      <Item value="x" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Integration_form.Function">
+      <Item value="RegtanglesMethod`0" priority="1" />
+      <Item value="TrapezoidMethod`0" priority="2" />
+      <Item value="SimpsonMethod`0" priority="3" />
+      <Item value="NumSubdivisions" priority="3" />
+      <Item value="XAxis" priority="5" />
+      <Item value="YAxis" priority="4" />
+      <Item value="Accuracy" priority="5" />
+      <Item value="Start" priority="3" />
+      <Item value="End" priority="2" />
+      <Item value="SetH`0" priority="1" />
+      <Item value="SetN`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="AutoSize" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="TabIndex" priority="0" />
+      <Item value="TabPages" priority="0" />
+      <Item value="SelectedTab" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Integration_form.Form1">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="tableLayoutPanel1" priority="0" />
+      <Item value="Site" priority="1" />
+      <Item value="Size" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabPage">
+      <Item value="Size" priority="2" />
+      <Item value="Show`0" priority="0" />
+      <Item value="TabIndex" priority="0" />
+      <Item value="Visible" priority="1" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="AutoSizeMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.PointPairList">
+      <Item value="Add`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedItem" priority="1" />
+      <Item value="SelectedText" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="SelectionChangeCommitted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.TabControl">
+      <Item value="ModifierKeys" priority="0" />
+      <Item value="TabPageCollection`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Black" priority="0" />
+      <Item value="Red" priority="1" />
+      <Item value="Green" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.GraphPane">
+      <Item value="CurveList" priority="0" />
+      <Item value="Draw`0" priority="1" />
+      <Item value="AddCurve`0" priority="1" />
+      <Item value="AddYAxis`0" priority="1" />
+      <Item value="Border" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZedGraph.CurveList">
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZedGraph.PaneBase">
+      <Item value="Default`0" priority="0" />
+      <Item value="schema" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZedGraph.SymbolType">
+      <Item value="Default" priority="0" />
+      <Item value="None" priority="0" />
+      <Item value="Circle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZedGraph.LineItem">
+      <Item value="Comparer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="0" />
+      <Item value="DisplayRectangle" priority="0" />
+      <Item value="Enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="2" />
+      <Item value="Clear`0" priority="1" />
+      <Item value="ToArray`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Message">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Integration_form.InterpaltionClass">
+      <Item value="Xaxis" priority="3" />
+      <Item value="Yaxis" priority="2" />
+      <Item value="poly" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MathParserTK.MathParser">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Polynomials.Polynomial">
+      <Item value="ToString`0" priority="0" />
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="Evaluate`0" priority="0" />
+      <Item value="Draw`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

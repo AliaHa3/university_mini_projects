@@ -1,0 +1,17 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Alia's laptop 2015\document\Unity Projects\Roll_a_Ball\Win Build\win_build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Alia's laptop 2015\document\Unity Projects\Roll_a_Ball\Win Build\win_build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Alia's laptop 2015\document\Unity Projects\Roll_a_Ball\Win Build\win_build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Alia's laptop 2015\document\Unity Projects\Roll_a_Ball\Win Build\win_build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.259 seconds
+desktop: 1920x1080 40Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
